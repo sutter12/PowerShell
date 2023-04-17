@@ -1,3 +1,0 @@
-Logging.ps1
-
-Start of new script - add logging mode toggle to write start of script
